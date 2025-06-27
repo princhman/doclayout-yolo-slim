@@ -11,7 +11,7 @@ pip install doclayout-yolo-slim
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/doclayout-yolo-slim.git
+git clone https://github.com/princhman/doclayout-yolo-slim.git
 cd doclayout-yolo-slim
 pip install -e .
 ```
